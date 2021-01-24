@@ -1,0 +1,9 @@
+body{
+
+background-color:light pink;
+}
+
+.demo{
+
+text-align:center;
+}
