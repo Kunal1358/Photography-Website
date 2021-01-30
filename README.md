@@ -1,2 +1,2 @@
-# Photography-Website
+# Photography_Website
 Website which provide service for photographers.
